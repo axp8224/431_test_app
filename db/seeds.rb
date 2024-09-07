@@ -7,9 +7,9 @@
 #   Character.create(name: "Luke", movie: movies.first)
 
 Book.create!([
-  { title: "The Great Gatsby", author: "F. Scott Fitzgerald" },
-  { title: "To Kill a Mockingbird", author: "Harper Lee" },
-  { title: "1984", author: "George Orwell" },
-  { title: "Pride and Prejudice", author: "Jane Austen" },
-  { title: "The Catcher in the Rye", author: "J.D. Salinger" },
+  { title: "The Great Gatsby"},
+  { title: "To Kill a Mockingbird"},
+  { title: "1984"},
+  { title: "Pride and Prejudice"},
+  { title: "The Catcher in the Rye"},
 ])
